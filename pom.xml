@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 <!-- 添加一个注释，嘿嘿嘿，再修改一下下啦-->
 	<!-- 添加一个注释，嘿嘿嘿，再修改一下下啦2-->
-	<!-- 添加一个注释，嘿嘿嘿，再修改一下下啦3-->
+	<!-- 服务器端的修改，第一次修改，需要更新到客户端即本地电脑上-->
   <groupId>com.testing.maven</groupId>
   <artifactId>VIP05Maven02</artifactId>
   <version>0.0.1-SNAPSHOT</version>
